@@ -1,10 +1,10 @@
 ---
 layout: post
-title:  "Mi segundo post"
-date:   2026-03-09 19:32:37 -0500
+title:  "Primera Publicacion"
+date:   2026-03-02 19:32:37 -0500
 categories: jekyll update
 ---
-You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
+Esta es mi primera publicacion sobre `Paginas Jekylls` para mi proyecto.
 
 
 
