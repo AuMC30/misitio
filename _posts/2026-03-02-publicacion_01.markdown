@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Primera Publicacion"
-date:   2026-03-02 19:32:37 -0500
+date:   2026-03-10 19:32:37 -0500
 categories: jekyll update
 ---
 Esta es mi primera publicacion sobre `Paginas Jekylls` para mi proyecto.
